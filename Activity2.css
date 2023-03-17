@@ -45,7 +45,11 @@ tr:nth-child(8){
     text-align: right
 }
 caption {
-    text-align: right;
+    text-align: center;
+    font-size:30px;
+    font-weight: bold
+    
+    
         
 }
 
