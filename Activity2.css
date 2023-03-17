@@ -1,9 +1,10 @@
 /*CENG311 Activity 2 css file*/
 
 /*styling for the table goes here*/
+
 body 
 {
-	width: 750px;
+	width: 760px;
 	margin: 0 auto;
 }
 
@@ -33,3 +34,18 @@ tbody tr:nth-child(even) td
 {
 	background-color: yellow;
 }
+
+tr:nth-child(8){
+    background-color: yellow;
+    
+    
+}
+
+#Ty{
+    text-align: right
+}
+caption {
+    text-align: right;
+        
+}
+
